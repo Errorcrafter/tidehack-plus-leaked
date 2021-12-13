@@ -7,4 +7,6 @@ webhook is apparently still up, but most of the actual rat doesnt work to my kno
 
 i'll put more shit here later cuz i'm tired right now lulz
 
+## rat gone 😂🤪😳:trollface:
+
 @TldeHack-Dev hello
