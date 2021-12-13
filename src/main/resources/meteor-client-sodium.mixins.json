@@ -1,0 +1,14 @@
+{
+  "required": false,
+  "package": "risingtide.tidehack.mixin.sodium",
+  "compatibilityLevel": "JAVA_16",
+  "client": [
+    "LightDataAccessMixin",
+    "SodiumBlockOcculsionCacheMixin",
+    "SodiumBlockRendererMixin",
+    "SodiumFluidRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
