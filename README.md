@@ -8,8 +8,8 @@ there is absolutely no HWID locking or auth or anything. its just a straight pas
 for anyone dumb/brave/bored enough to try to dig through some 12 year-old's java """""code""""", the """""rat""""" is in [`utils/grabber`](https://github.com/Errorcrafter/tidehack-plus-leaked/tree/main/src/main/java/risingtide/tidehack/utils/grabber). the excessive use of quotes is due to the fact that it is, once again, practically identical to yoink rat, except he had to remove a lot of its features since fabric doesn't allow you to do things like take screenshots and some other stuff. since he invited me to the server he was sending the rat info to i managed to actually get his fucking token because he used the sAME FUCKING WEBHOOK TO TEST THE RAT BEFORE HE GOT ME TO DEV FOR HIM HOW ARE PEOPLE THIS FUCKING STUPID
 
 fortunately, the people he was trying to rat were absolutely retarded and didnt even have the correct version of java installed and got jvm errors before they could actually run the client
-![image](https://user-images.githubusercontent.com/69189354/146016776-f061ca2b-f68e-472e-b1d4-f674d5f6ed64.png)
 
+![image](https://user-images.githubusercontent.com/69189354/146016776-f061ca2b-f68e-472e-b1d4-f674d5f6ed64.png)
 
 thanks to acaiberii the webhooks are now dead, so you're mostly safe. i say "mostly" since the chromegrabber is an external file which uses its own webhook i think(?) so if you use chrome 80 or lower dont run this.
 
