@@ -1,3 +1,5 @@
+# UPDATE: HIS ACCOUNT GOT TAKEN DOWN AFTER TRYING TO LEAK SOLARUTILS LOOOOOOOOL
+
 # TideHack+ "Leaked"
 winner of the "world's saddest meteor skid" award for two years running. does this even count as a leak? it's literally just a meteor rename.
 
